@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './App.css';
+import './TrafficLight.css';
 
 // Buila a traffic light indicator
 // which would change the light from one to another
