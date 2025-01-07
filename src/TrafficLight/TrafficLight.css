@@ -28,3 +28,6 @@
 .light.yellow {
   background-color: yellow;
 }
+li{
+  list-style-type: none;
+}
